@@ -26,4 +26,4 @@ def split_arian(s, char):
             start = end + len(char)
         end += 1
 
-split_str(m, "seperator")
+split_arian(m, "seperator")
