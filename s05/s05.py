@@ -58,3 +58,4 @@ for i in range(len(names)):
     
 for x in names:
     print(x)
+split_arian(m, "seperator")
